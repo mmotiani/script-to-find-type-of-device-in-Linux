@@ -1,0 +1,1 @@
+# script-to-find-type-of-device-in-Linux
